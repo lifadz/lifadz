@@ -3,7 +3,7 @@
 I'm **Fadzli Muhammad**,  
 an **Informatics Student** at University of Bengkulu, currently learning and growing in **Networking & CyberSecurity**.
 
-I like learning how networks run and how to keep them secure.
+I like learning how systems and networks work, as well as how to secure them.
 
 > Still learning. Always securing.
 
