@@ -17,15 +17,5 @@ I like learning how networks run and how to keep them secure.
 
 ---
 
-### 📊 GitHub Stats *(optional)*
-<p align="left">
-<a href="https://github.com/lifadz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lifadz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lifadz&layout=compact&theme=algolia"/>
-</a>
-</p>
-
----
-
 ### ☕ Hit Me Up  
 Open for networking/cybersecurity discussion or project.
