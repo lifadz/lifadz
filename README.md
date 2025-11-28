@@ -1,9 +1,9 @@
 # Hey There 👋  
 
 I'm **Fadzli Muhammad**,  
-an **Informatics Student** at University of Bengkulu, currently learning and growing in **Networking & CyberSecurity**.
+an **Informatics Student** at University of Bengkulu, focusing on **Networking & CyberSecurity**.
 
-I like learning how systems and networks work, as well as how to secure them.
+I enjoy learning how systems and networks work, as well as how to secure them.
 
 > Still learning. Always securing.
 
