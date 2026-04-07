@@ -55,21 +55,21 @@ I enjoy understanding how systems and networks work, as well as how to secure th
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Bash-grey?logo=gnubash&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/MySQL-orange?logo=mysql&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Git-black?logo=git&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-orange?logo=mysql&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-black?logo=git&logoColor=white&style=for-the-badge"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-blue?logo=cisco&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/TCP%2FIP-grey?logo=cloudflare&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Network%20Troubleshooting-grey?logo=datadog&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-blue?logo=cisco&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TCP%2FIP-grey?logo=cloudflare&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Network%20Troubleshooting-grey?logo=datadog&logoColor=white&style=for-the-badge"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Security%20Fundamentals-darkred?logo=adguard&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Security%20Fundamentals-darkred?logo=hackthebox&logoColor=white&style=for-the-badge"/>
 </p>
 
 ---
