@@ -89,7 +89,7 @@ I enjoy understanding how systems and networks work, as well as how to secure th
 <a href="https://linkedin.com/in/fadzli-muhammad" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
 </a>
-<a href="https://instagram.com/yourusername" target="_blank">
+<a href="https://www.instagram.com/notfadzli.exe" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white" />
 </a>
 <a href="https://github.com/lifadz" target="_blank">
