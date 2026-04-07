@@ -12,7 +12,7 @@ I enjoy understanding how systems and networks work, as well as how to secure th
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 <p align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="450"/>
 </p>
@@ -25,7 +25,7 @@ I enjoy understanding how systems and networks work, as well as how to secure th
 
 ---
 
-## 🎯 Focus Area
+# 🎯 Focus Area
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="380"/>
 </p>
@@ -37,7 +37,7 @@ I enjoy understanding how systems and networks work, as well as how to secure th
 
 ---
 
-## 🔥 What I'm Learning
+# 🔥 What I'm Learning
 <p align="center">
   <img src="https://metro.co.uk/wp-content/uploads/2022/03/Cyberwarfare-is-the-battleground-of-the-21st-century-and-were-all-involved-BP-29e0.gif?w=960&h=540&crop=1" width="380"/>
 </p>
@@ -49,7 +49,7 @@ I enjoy understanding how systems and networks work, as well as how to secure th
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 <p align="center">
   <img src="https://i.giphy.com/26tn33aiTi1jkl6H6.webp" width="380"/>
 </p>
@@ -74,21 +74,21 @@ I enjoy understanding how systems and networks work, as well as how to secure th
 
 ---
 
-## 📊 GitHub Overview
+# 📊 GitHub Overview
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lifadz&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Activity
+# 🔥 Activity
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=lifadz&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+# 🌐 Connect with Me
 <p align="center">
   <img src="https://i.giphy.com/LZ2WRdQu8udNPSZxbg.webp" width="380"/>
 </p>
