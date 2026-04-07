@@ -95,12 +95,12 @@ I enjoy understanding how systems and networks work, as well as how to secure th
 
 <p align="center">
 <a href="https://linkedin.com/in/fadzli-muhammad" target="_blank" >
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
 <a href="https://www.instagram.com/notfadzli.exe" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge" />
 </a>
 <a href="https://github.com/lifadz" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge" /> 
 </a>
 </p>
