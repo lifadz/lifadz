@@ -14,44 +14,44 @@ I enjoy understanding how systems and networks work, as well as how to secure th
 
 ## 🧑‍💻 About Me
 <p align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="420"/>
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="450"/>
 </p>
 
-- 💻 Developing a **Laundry Management System (Visual Basic + Supabase)**  
-- 🐧 Able to troubleshoot **basic system and Linux-related issues**  
+- 💻 Developed a **WiFi Security Analyzer**, a Python-based tool for scanning networks, detecting vulnerabilities, and monitoring suspicious traffic
+- 🐧 Able to troubleshoot **system and Linux-related issues**  
 - 🌐 Experienced in **network simulation using Cisco Packet Tracer & similar tools**  
-- ⚙️ Understanding **basic backend concepts (API, data handling, system logic)**  
-- 🚀 Ready to start a career as an **IT Support / Network Engineer**
-
----
-
-## 🔥 What I'm Learning
-<p align="center">
-  <img src="https://metro.co.uk/wp-content/uploads/2022/03/Cyberwarfare-is-the-battleground-of-the-21st-century-and-were-all-involved-BP-29e0.gif?w=960&h=540&crop=1" width="360"/>
-</p>
-
-- Linux & System Administration  
-- Networking Fundamentals (TCP/IP, basic troubleshooting)  
-- Cybersecurity Basics & Threat Awareness  
-- Basic Scripting & Automation  
+- ⚙️ Understanding **backend fundamentals (API, data handling, system logic)**  
+- 🚀 Actively seeking an opportunity as an **IT Support / Network Engineer**
 
 ---
 
 ## 🎯 Focus Area
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="360"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="380"/>
 </p>
 
 - IT Support & Technical Troubleshooting  
 - Network Configuration & Monitoring  
 - System Administration (Linux)  
-- Basic Security & Defensive Practices  
+- Security Fundamentals & Defensive Practices  
+
+---
+
+## 🔥 What I'm Learning
+<p align="center">
+  <img src="https://metro.co.uk/wp-content/uploads/2022/03/Cyberwarfare-is-the-battleground-of-the-21st-century-and-were-all-involved-BP-29e0.gif?w=960&h=540&crop=1" width="380"/>
+</p>
+
+- Networking & Linux Fundamentals  
+- Cybersecurity Fundamentals & Threat Awareness  
+- SOC & Blue Team Practices  
+- Red Team Awareness (for defensive understanding)  
 
 ---
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+  <img src="https://i.giphy.com/26tn33aiTi1jkl6H6.webp" width="380"/>
 </p>
 
 <p align="center">
