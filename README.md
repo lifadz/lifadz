@@ -55,21 +55,21 @@ I enjoy understanding how systems and networks work, as well as how to secure th
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-grey?logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-orange?logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-black?logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" height="27"/>
+<img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white" height="27"/>
+<img src="https://img.shields.io/badge/Bash-grey?logo=gnubash&logoColor=white" height="27"/>
+<img src="https://img.shields.io/badge/MySQL-orange?logo=mysql&logoColor=white" height="27"/>
+<img src="https://img.shields.io/badge/Git-black?logo=git&logoColor=white" height="27"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-blue?logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/TCP%2FIP-grey?logo=cloudflare&logoColor=white"/>
-<img src="https://img.shields.io/badge/Network%20Troubleshooting-grey?logo=datadog&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-blue?logo=cisco&logoColor=white" height="27"/>
+<img src="https://img.shields.io/badge/TCP%2FIP-grey?logo=cloudflare&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Network%20Troubleshooting-grey?logo=datadog&logoColor=white" height="27"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Security%20Fundamentals-darkred?logo=adguard&logoColor=white"/>
+<img src="https://img.shields.io/badge/Security%20Fundamentals-darkred?logo=adguard&logoColor=white" height="27"/>
 </p>
 
 ---
