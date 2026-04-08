@@ -6,19 +6,20 @@ Informatics Graduate | <b>IT Support | Networking | Cybersecurity</b>
 </p>
 
 <p align="center">
-I have a strong interest in troubleshooting systems, analyzing network behavior, and applying security concepts through hands-on projects.<br>
+I am interested in troubleshooting systems, analyzing network behavior, and applying security concepts through hands-on projects.<br>
 <i>Continuously learning through practical experience.</i>
 </p>
 
 ---
 
 # 🧑‍💻 About Me
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="450"/>
 </p>
 
 - 💻 Built a **WiFi Security Analyzer** (Python) for network scanning, vulnerability detection, and basic traffic monitoring  
-- 🐧 Troubleshoot **Linux systems and common technical issues** in hands-on environments  
+- 🐧 Familiar with troubleshooting **Linux systems and common technical issues**  
 - 🌐 Simulate and design networks using **Cisco Packet Tracer & similar tools**  
 - ⚙️ Understand **backend fundamentals** including API usage, data handling, and system logic  
 - 🚀 Currently seeking opportunities in **IT Support, Networking, or Cybersecurity roles**
